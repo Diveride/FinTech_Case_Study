@@ -32,11 +32,11 @@
  
  SheeldMarkets tries to tackle three key roadblocks faced by institutional investors:  
 
-1. Aggregation of exchanges: The Cryptocurrency market is extremely fragmented with over 50 CeFi (Centralized Finance) exchanges. Being able to connect AND trade on most of them brings up a significant operational challenge. SheelMarkets solved the issue by replicating the existing “Prime Broker” model currently used in traditional finance. Beyond the connectivity work, the key challenge is to keep enough fiat/coins in each exchange to allow clients to benefit from the aggregation of executable prices. 
- 
-2. Execution: Algorithmic execution with smart order routing systems are extremely important in a fragmented and OTC(Over The Counter) market. SheeldMarkets brings a highly sophisticated set of execution algos, again bringing over into the crypto world the knowledge and mechanisms used in equities and FX(Foreign Exchange) markets. The goal is to meet the institutional investors expectation in terms of best execution practices. The company also created its own “Dark Pool” in order to match clients’ orders while avoiding leakage of information.  
-
-3. Regulation: Currently the market is still widely unregulated which is preventing a whole segment of institutional investors (any regulated entities like pension funds) from entering the space. Being registered and regulated by the AMF (French Market Authority), SheeldMarkets tackle this regulatory issue by being approved to operate across Europe.  
+    1. Aggregation of exchanges: The Cryptocurrency market is extremely fragmented with over 50 CeFi (Centralized Finance) exchanges. Being able to connect AND trade on most of them brings up a significant operational challenge. SheelMarkets solved the issue by replicating the existing “Prime Broker” model currently used in traditional finance. Beyond the connectivity work, the key challenge is to keep enough fiat/coins in each exchange to allow clients to benefit from the aggregation of executable prices. 
+    
+    2. Execution: Algorithmic execution with smart order routing systems are extremely important in a fragmented and OTC(Over The Counter) market. SheeldMarkets brings a highly sophisticated set of execution algos, again bringing over into the crypto world the knowledge and mechanisms used in equities and FX(Foreign Exchange) markets. The goal is to meet the institutional investors expectation in terms of best execution practices. The company also created its own “Dark Pool” in order to match clients’ orders while avoiding leakage of information. 
+    
+    3. Regulation: Currently the market is still widely unregulated which is preventing a whole segment of institutional investors (any regulated entities like pension funds) from entering the space. Being registered and regulated by the AMF (French Market Authority), SheeldMarkets tackle this regulatory issue by being approved to operate across Europe.  
 
 
 * __*Who is the company's intended customer?  Is there any information about the market size of this set of customers?What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)*__  
@@ -79,14 +79,17 @@ There are also few Dex (decentralized exchanges) that are looking to aggregate C
 ## Results
 
 * __*What has been the business impact of this company so far?*__   
+
 SheeldMarkets position itself as a contender to FalconX or Tagomi who launched their offer few years prior. It is too early to say whether the company will be successful but they are providing a solution to the industry to foster institutional adoption. Hence the potential is there, now they need to succeed in marketing it.   
 
 
 * __*What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*__ 
+  
 Client adoptions and Volumes executed through their network.
 
 
 * __*How is your company performing relative to competitors in the same domain?*__  
+
 They are early stage but they are the first one being registered in Europe. It will be hard for them to compete in the US but they are well positioned to conquer Europe market. 
 
 
