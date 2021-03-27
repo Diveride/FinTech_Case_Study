@@ -110,16 +110,16 @@ N/A (Voice Trading Service)
 N/A
 
 ## Links/References
-https://www.sheeldmarket.com/
-https://pitchbook.com/profiles/company/435600-28#signals
-https://www.myfrenchstartup.com/fr/levee-de-fonds-startup-sheeldmarket/2020/06/30/129875
-https://business.lesechos.fr/entrepreneurs/financer-sa-creation/0603457518696-cryptomonnaies-sheeldmarket-leve-1-million-d-euros-pour-sa-plateforme-de-trading-338582.php
-https://www.sfox.com/
-https://falconx.io/
-https://tagomi.com/
-https://bravenewcoin.com/insights/how-aggregators-are-solving-cryptos-liquidity-problem
-https://medium.com/bitsian/trading-crypto-across-exchanges-use-an-aggregator-7ac3b080a57
-https://coinmarketcap.com/alexandria/article/what-are-dex-aggregators-a-deep-dive-by-1inch
-https://blog.sheeldmarket.com/sheeldmarket-registered-as-crypto-prime-broker-by-french-sec/
+https://www.sheeldmarket.com/   
+https://pitchbook.com/profiles/company/435600-28#signals    
+https://www.myfrenchstartup.com/fr/levee-de-fonds-startup-sheeldmarket/2020/06/30/129875    
+https://business.lesechos.fr/entrepreneurs/financer-sa-creation/0603457518696-cryptomonnaies-sheeldmarket-leve-1-million-d-euros-pour-sa-plateforme-de-trading-338582.php   
+https://www.sfox.com/   
+https://falconx.io/     
+https://tagomi.com/     
+https://bravenewcoin.com/insights/how-aggregators-are-solving-cryptos-liquidity-problem     
+https://medium.com/bitsian/trading-crypto-across-exchanges-use-an-aggregator-7ac3b080a57        
+https://coinmarketcap.com/alexandria/article/what-are-dex-aggregators-a-deep-dive-by-1inch     
+https://blog.sheeldmarket.com/sheeldmarket-registered-as-crypto-prime-broker-by-french-sec/     
 https://blog.sheeldmarket.com/building-the-next-generation-of-trading-infrastructure/
 
